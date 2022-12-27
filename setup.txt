@@ -1,0 +1,8 @@
+1. install Twilio library (pip install twilio)
+2. create Twilio account (https://www.twilio.com/)
+3. create Twilio virtual number 
+4. configure keys.py with Twilio account id, token, and virtual number
+5. configure keys.py with target phone number
+6. configure config.py with chosen Artist/Album/Song
+2. run main.py
+3. enjoy (or not)
